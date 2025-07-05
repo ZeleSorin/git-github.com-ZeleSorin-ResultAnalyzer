@@ -1,0 +1,3352 @@
+{
+  "gitextensions": [
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 186,
+            "Default expressions": 24,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 89
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 125,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 0,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 3,
+            "in": 0,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 15,
+            "Expression variables in initializers": 990
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 68,
+            "RangeType": 4,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 338,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 12,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 23,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "21-06-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 185,
+            "Default expressions": 27,
+            "Inffered tuple element names": 4,
+            "Pattern matching with generics": 92
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 135,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 1,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 5,
+            "in": 1,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 15,
+            "Expression variables in initializers": 1023
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 70,
+            "RangeType": 4,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 333,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 20,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 23,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "18-07-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 185,
+            "Default expressions": 33,
+            "Inffered tuple element names": 4,
+            "Pattern matching with generics": 89
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 141,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 3,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 18,
+            "in": 3,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 15,
+            "Expression variables in initializers": 1031
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 70,
+            "RangeType": 5,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 335,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 20,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 23,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "18-07-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 184,
+            "Default expressions": 35,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 89
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 144,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 11,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 19,
+            "in": 11,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 15,
+            "Expression variables in initializers": 1054
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 72,
+            "RangeType": 5,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 334,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 24,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 23,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "18-07-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 172,
+            "Default expressions": 36,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 87
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 149,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 21,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 21,
+            "in": 21,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 15,
+            "Expression variables in initializers": 1066
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 73,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 340,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 36,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "18-07-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 170,
+            "Default expressions": 40,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 84
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 154,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 21,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 24,
+            "in": 21,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 15,
+            "Expression variables in initializers": 1072
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 73,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 350,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 34,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "24-07-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 178,
+            "Default expressions": 40,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 84
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 157,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 21,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 25,
+            "in": 21,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 15,
+            "Expression variables in initializers": 1076
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 74,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 354,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 34,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "08-08-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 187,
+            "Default expressions": 48,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 84
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 198,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 21,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 28,
+            "in": 21,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 15,
+            "Expression variables in initializers": 1097
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 74,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 377,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 31,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "27-09-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 188,
+            "Default expressions": 55,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 84
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 207,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 25,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 29,
+            "in": 25,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1156
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 76,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 378,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 32,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "22-10-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 188,
+            "Default expressions": 47,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 83
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 210,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 21,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 32,
+            "in": 21,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1163
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 69,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 380,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 35,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "06-11-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 189,
+            "Default expressions": 47,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 82
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 220,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 21,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 34,
+            "in": 21,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1175
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 70,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 382,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 35,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "04-12-2018"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 189,
+            "Default expressions": 47,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 83
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 219,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 31,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 35,
+            "in": 31,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1177
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 70,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 383,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 35,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "01-01-2019"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 189,
+            "Default expressions": 53,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 83
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 244,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 33,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 39,
+            "in": 33,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1219
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 70,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 382,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 35,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "25-01-2019"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 189,
+            "Default expressions": 54,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 88
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 251,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 33,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 40,
+            "in": 33,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1235
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 71,
+            "RangeType": 6,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 391,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 36,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 25,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "25-02-2019"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 216,
+            "Default expressions": 58,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 91
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 268,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 32,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 43,
+            "in": 32,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1303
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 71,
+            "RangeType": 7,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 10,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 394,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 41,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 28,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "10-04-2019"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 215,
+            "Default expressions": 58,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 91
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 0,
+            "Non trailing arguments": 270,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 32,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 45,
+            "in": 32,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1307
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 71,
+            "RangeType": 7,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 10,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 400,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 41,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 28,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "25-05-2019"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 218,
+            "Default expressions": 63,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 91
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 5,
+            "Non trailing arguments": 275,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 32,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 48,
+            "in": 32,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1357
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 71,
+            "RangeType": 7,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 398,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 51,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 28,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "28-07-2019"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 219,
+            "Default expressions": 63,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 91
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 5,
+            "Non trailing arguments": 287,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 32,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 48,
+            "in": 32,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 16,
+            "Expression variables in initializers": 1357
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 71,
+            "RangeType": 7,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 12,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 400,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 52,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 28,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "05-10-2019"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 219,
+            "Default expressions": 71,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 94
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 5,
+            "Non trailing arguments": 307,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 32,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 54,
+            "in": 32,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 0,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 17,
+            "Expression variables in initializers": 1408
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 98,
+            "RangeType": 18,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 17,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 446,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 64,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 28,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "21-12-2019"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 253,
+            "Default expressions": 76,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 97
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 5,
+            "Non trailing arguments": 315,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 31,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 54,
+            "in": 31,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 1,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 17,
+            "Expression variables in initializers": 1399
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 97,
+            "RangeType": 18,
+            "Static local functions": 0,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 18,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 455,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 64,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 28,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "08-02-2020"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 247,
+            "Default expressions": 76,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 100
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 5,
+            "Non trailing arguments": 308,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 31,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 55,
+            "in": 31,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 1,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 17,
+            "Expression variables in initializers": 1386
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 97,
+            "RangeType": 17,
+            "Static local functions": 3,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 18,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 450,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 65,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 32,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "08-04-2020"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 251,
+            "Default expressions": 76,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 108
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 5,
+            "Non trailing arguments": 320,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 31,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 55,
+            "in": 31,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 1,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 17,
+            "Expression variables in initializers": 1414
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 105,
+            "RangeType": 17,
+            "Static local functions": 9,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 18,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 445,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 67,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 35,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "21-05-2020"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 274,
+            "Default expressions": 82,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 115
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 15,
+            "Non trailing arguments": 436,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 31,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 57,
+            "in": 31,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 1,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 17,
+            "Expression variables in initializers": 1520
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 105,
+            "RangeType": 17,
+            "Static local functions": 9,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 18,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 456,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 68,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 36,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "03-08-2020"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 280,
+            "Default expressions": 88,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 160
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 16,
+            "Non trailing arguments": 483,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 42,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 59,
+            "in": 42,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 1,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 17,
+            "Expression variables in initializers": 1604
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 106,
+            "RangeType": 17,
+            "Static local functions": 17,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 22,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 463,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 0,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 74,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 38,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "03-11-2020"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 279,
+            "Default expressions": 87,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 1902
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 16,
+            "Non trailing arguments": 498,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 42,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 61,
+            "in": 42,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 1,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 17,
+            "Expression variables in initializers": 1579
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 107,
+            "RangeType": 17,
+            "Static local functions": 26,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 22,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 472,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 8,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 74,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 38,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "24-01-2021"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 294,
+            "Default expressions": 88,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 1935
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 16,
+            "Non trailing arguments": 526,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 41,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 64,
+            "in": 41,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 1,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 17,
+            "Expression variables in initializers": 1524
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 107,
+            "RangeType": 10,
+            "Static local functions": 35,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 22,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 473,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 937,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 76,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 38,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "06-03-2021"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 294,
+            "Default expressions": 84,
+            "Inffered tuple element names": 2,
+            "Pattern matching with generics": 1888
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 16,
+            "Non trailing arguments": 533,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 41,
+            "IN arguments": 0,
+            "ref struct": 0,
+            "reaonly struct": 64,
+            "in": 41,
+            "span<T> and readonlySpan": 0
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 1,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 0,
+            "fixed-sized buffers": 17,
+            "Expression variables in initializers": 1529
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 108,
+            "RangeType": 10,
+            "Static local functions": 40,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 25,
+            "Ranges: System.Index and System.Range, and ^": 0,
+            "Enhanced using": 478,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 0
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 981,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 77,
+            "Native-sized integers": 0,
+            "Attributes on local functions": 0,
+            "Function pointers": 0,
+            "Static lambdas": 0,
+            "Records": 0,
+            "Covariant returns": 38,
+            "Module initializers": 0,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 0,
+            "global using": 0,
+            "Constant interpolated strings": 0,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 0,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 0,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "28-03-2021"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 401,
+            "Default expressions": 149,
+            "Inffered tuple element names": 4,
+            "Pattern matching with generics": 2004
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 13,
+            "Non trailing arguments": 741,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 61,
+            "IN arguments": 1,
+            "ref struct": 4,
+            "reaonly struct": 84,
+            "in": 61,
+            "span<T> and readonlySpan": 5
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 2,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 2,
+            "fixed-sized buffers": 27,
+            "Expression variables in initializers": 1806
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 0,
+            "Readonly Method": 0,
+            "IndexType": 146,
+            "RangeType": 24,
+            "Static local functions": 75,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 56,
+            "Ranges: System.Index and System.Range, and ^": 189,
+            "Enhanced using": 520,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 1
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 3239,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 100,
+            "Native-sized integers": 1,
+            "Attributes on local functions": 2,
+            "Function pointers": 0,
+            "Static lambdas": 2,
+            "Records": 12,
+            "Covariant returns": 23,
+            "Module initializers": 2,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 6,
+            "global using": 378,
+            "Constant interpolated strings": 3,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 1,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 0,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 428,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "24-12-2023"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 414,
+            "Default expressions": 160,
+            "Inffered tuple element names": 6,
+            "Pattern matching with generics": 2028
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 13,
+            "Non trailing arguments": 778,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 78,
+            "IN arguments": 1,
+            "ref struct": 4,
+            "reaonly struct": 87,
+            "in": 78,
+            "span<T> and readonlySpan": 8
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 2,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 2,
+            "fixed-sized buffers": 36,
+            "Expression variables in initializers": 1833
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 1,
+            "Readonly Method": 0,
+            "IndexType": 165,
+            "RangeType": 24,
+            "Static local functions": 85,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 62,
+            "Ranges: System.Index and System.Range, and ^": 194,
+            "Enhanced using": 516,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 1
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 3304,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 108,
+            "Native-sized integers": 1,
+            "Attributes on local functions": 2,
+            "Function pointers": 0,
+            "Static lambdas": 2,
+            "Records": 13,
+            "Covariant returns": 23,
+            "Module initializers": 2,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 7,
+            "global using": 378,
+            "Constant interpolated strings": 3,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 1,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 1,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 614,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "10-04-2024"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 420,
+            "Default expressions": 158,
+            "Inffered tuple element names": 7,
+            "Pattern matching with generics": 2062
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 13,
+            "Non trailing arguments": 819,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 73,
+            "IN arguments": 1,
+            "ref struct": 4,
+            "reaonly struct": 87,
+            "in": 73,
+            "span<T> and readonlySpan": 8
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 2,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 2,
+            "fixed-sized buffers": 30,
+            "Expression variables in initializers": 1858
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 1,
+            "Readonly Method": 0,
+            "IndexType": 169,
+            "RangeType": 26,
+            "Static local functions": 97,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 64,
+            "Ranges: System.Index and System.Range, and ^": 201,
+            "Enhanced using": 512,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 1
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 3358,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 111,
+            "Native-sized integers": 5,
+            "Attributes on local functions": 2,
+            "Function pointers": 0,
+            "Static lambdas": 2,
+            "Records": 15,
+            "Covariant returns": 21,
+            "Module initializers": 2,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 7,
+            "global using": 405,
+            "Constant interpolated strings": 3,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 1,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 1,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 534,
+            "Inline arrays": 0,
+            "Primary Constructors": 0,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "28-09-2024"
+    },
+    {
+      "ResultsPerVersion": [
+        {
+          "Values": {
+            "async Main": 439,
+            "Default expressions": 165,
+            "Inffered tuple element names": 7,
+            "Pattern matching with generics": 2065
+          },
+          "Version": 7.1
+        },
+        {
+          "Values": {
+            "private protected combination": 13,
+            "Non trailing arguments": 880,
+            "Digit separator after 0b or 0x": 0,
+            "conditional ref": 0,
+            "IN parameters": 84,
+            "IN arguments": 1,
+            "ref struct": 4,
+            "reaonly struct": 87,
+            "in": 84,
+            "span<T> and readonlySpan": 10
+          },
+          "Version": 7.2
+        },
+        {
+          "Values": {
+            "Unmanaged type constraint": 2,
+            "Support == and != for tuples": 0,
+            "C# 7.3: Auto-Implemented Property Field-Targeted Attributes": 0,
+            "Stackalloc array initializers": 2,
+            "fixed-sized buffers": 30,
+            "Expression variables in initializers": 1868
+          },
+          "Version": 7.3
+        },
+        {
+          "Values": {
+            "Readonly Property": 1,
+            "Readonly Method": 0,
+            "IndexType": 163,
+            "RangeType": 26,
+            "Static local functions": 102,
+            "Stackalloc in nested contexts": 0,
+            "Alternative interpolated verbatim strings": 73,
+            "Ranges: System.Index and System.Range, and ^": 226,
+            "Enhanced using": 483,
+            "Recursive Pattern Matching": 0,
+            "default interface methods": 1
+          },
+          "Version": 8
+        },
+        {
+          "Values": {
+            "Target-typed new expression": 3376,
+            "SkipLocalsInit Attribute": 0,
+            "Lambda discard parameters": 106,
+            "Native-sized integers": 5,
+            "Attributes on local functions": 2,
+            "Function pointers": 0,
+            "Static lambdas": 2,
+            "Records": 19,
+            "Covariant returns": 21,
+            "Module initializers": 2,
+            "Top level statements": 0
+          },
+          "Version": 9
+        },
+        {
+          "Values": {
+            "record struct declaration": 9,
+            "global using": 405,
+            "Constant interpolated strings": 3,
+            "Records with sealed base toString override": 0,
+            "Allow [AsyncMethodBuilder(...)] on methods": 0,
+            "Static abstract members in interfaces": 0,
+            "Lambda improvements": 0,
+            "Parameterless struct constructors": 1,
+            "Caller expression attribute": 0
+          },
+          "Version": 10
+        },
+        {
+          "Values": {
+            "File-local types": 0,
+            "Required members": 0,
+            "Unsigned Right Shift": 0,
+            "Utf8 String Literals": 0,
+            "Pattern matching on ReadOnlySpan<char>": 0,
+            "List patterns": 0,
+            "Raw string literals": 3,
+            "Generic attributes": 0
+          },
+          "Version": 11
+        },
+        {
+          "Values": {
+            "Collection Expressions": 591,
+            "Inline arrays": 0,
+            "Primary Constructors": 5,
+            "Lambda optional parameters": 0
+          },
+          "Version": 12
+        }
+      ],
+      "Date": "18-02-2025"
+    }
+  ]
+}

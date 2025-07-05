@@ -1,0 +1,2117 @@
+[
+  {
+    "name": "PowerToys",
+    "clone_url": "https://github.com/microsoft/PowerToys.git",
+    "html_url": "https://github.com/microsoft/PowerToys",
+    "stargazers_count": 118460,
+    "size": 426132,
+    "commits_url": "https://api.github.com/repos/microsoft/PowerToys/commits",
+    "total_commits": 7963
+  },
+  {
+    "name": "v2rayN",
+    "clone_url": "https://github.com/2dust/v2rayN.git",
+    "html_url": "https://github.com/2dust/v2rayN",
+    "stargazers_count": 79621,
+    "size": 42307,
+    "commits_url": "https://api.github.com/repos/2dust/v2rayN/commits",
+    "total_commits": 2120
+  },
+  {
+    "name": "shadowsocks-windows",
+    "clone_url": "https://github.com/shadowsocks/shadowsocks-windows.git",
+    "html_url": "https://github.com/shadowsocks/shadowsocks-windows",
+    "stargazers_count": 58818,
+    "size": 13489,
+    "commits_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits",
+    "total_commits": 1502
+  },
+  {
+    "name": "PowerShell",
+    "clone_url": "https://github.com/PowerShell/PowerShell.git",
+    "html_url": "https://github.com/PowerShell/PowerShell",
+    "stargazers_count": 47340,
+    "size": 97658,
+    "commits_url": "https://api.github.com/repos/PowerShell/PowerShell/commits",
+    "total_commits": 11035
+  },
+  {
+    "name": "jellyfin",
+    "clone_url": "https://github.com/jellyfin/jellyfin.git",
+    "html_url": "https://github.com/jellyfin/jellyfin",
+    "stargazers_count": 39510,
+    "size": 68392,
+    "commits_url": "https://api.github.com/repos/jellyfin/jellyfin/commits",
+    "total_commits": 27337
+  },
+  {
+    "name": "Files",
+    "clone_url": "https://github.com/files-community/Files.git",
+    "html_url": "https://github.com/files-community/Files",
+    "stargazers_count": 37065,
+    "size": 250694,
+    "commits_url": "https://api.github.com/repos/files-community/Files/commits",
+    "total_commits": 6306
+  },
+  {
+    "name": "aspnetcore",
+    "clone_url": "https://github.com/dotnet/aspnetcore.git",
+    "html_url": "https://github.com/dotnet/aspnetcore",
+    "stargazers_count": 36606,
+    "size": 362432,
+    "commits_url": "https://api.github.com/repos/dotnet/aspnetcore/commits",
+    "total_commits": 54973
+  },
+  {
+    "name": "RevokeMsgPatcher",
+    "clone_url": "https://github.com/huiyadanli/RevokeMsgPatcher.git",
+    "html_url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+    "stargazers_count": 32606,
+    "size": 3680,
+    "commits_url": "https://api.github.com/repos/huiyadanli/RevokeMsgPatcher/commits",
+    "total_commits": 279
+  },
+  {
+    "name": "ShareX",
+    "clone_url": "https://github.com/ShareX/ShareX.git",
+    "html_url": "https://github.com/ShareX/ShareX",
+    "stargazers_count": 32349,
+    "size": 61826,
+    "commits_url": "https://api.github.com/repos/ShareX/ShareX/commits",
+    "total_commits": 8077
+  },
+  {
+    "name": "DevToys",
+    "clone_url": "https://github.com/DevToys-app/DevToys.git",
+    "html_url": "https://github.com/DevToys-app/DevToys",
+    "stargazers_count": 28829,
+    "size": 229034,
+    "commits_url": "https://api.github.com/repos/DevToys-app/DevToys/commits",
+    "total_commits": 1074
+  },
+  {
+    "name": "Avalonia",
+    "clone_url": "https://github.com/AvaloniaUI/Avalonia.git",
+    "html_url": "https://github.com/AvaloniaUI/Avalonia",
+    "stargazers_count": 27614,
+    "size": 186379,
+    "commits_url": "https://api.github.com/repos/AvaloniaUI/Avalonia/commits",
+    "total_commits": 27105
+  },
+  {
+    "name": "dnSpy",
+    "clone_url": "https://github.com/dnSpy/dnSpy.git",
+    "html_url": "https://github.com/dnSpy/dnSpy",
+    "stargazers_count": 27564,
+    "size": 35047,
+    "commits_url": "https://api.github.com/repos/dnSpy/dnSpy/commits",
+    "total_commits": 3932
+  },
+  {
+    "name": "ScreenToGif",
+    "clone_url": "https://github.com/NickeManarin/ScreenToGif.git",
+    "html_url": "https://github.com/NickeManarin/ScreenToGif",
+    "stargazers_count": 24897,
+    "size": 25744,
+    "commits_url": "https://api.github.com/repos/NickeManarin/ScreenToGif/commits",
+    "total_commits": 1289
+  },
+  {
+    "name": "eShopOnContainers",
+    "clone_url": "https://github.com/dotnet-architecture/eShopOnContainers.git",
+    "html_url": "https://github.com/dotnet-architecture/eShopOnContainers",
+    "stargazers_count": 24517,
+    "size": 661091,
+    "commits_url": "https://api.github.com/repos/dotnet-architecture/eShopOnContainers/commits",
+    "total_commits": 4339
+  },
+  {
+    "name": "semantic-kernel",
+    "clone_url": "https://github.com/microsoft/semantic-kernel.git",
+    "html_url": "https://github.com/microsoft/semantic-kernel",
+    "stargazers_count": 24407,
+    "size": 85578,
+    "commits_url": "https://api.github.com/repos/microsoft/semantic-kernel/commits",
+    "total_commits": 4433
+  },
+  {
+    "name": "WaveFunctionCollapse",
+    "clone_url": "https://github.com/mxgmn/WaveFunctionCollapse.git",
+    "html_url": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "stargazers_count": 24005,
+    "size": 31161,
+    "commits_url": "https://api.github.com/repos/mxgmn/WaveFunctionCollapse/commits",
+    "total_commits": 153
+  },
+  {
+    "name": "downkyi",
+    "clone_url": "https://github.com/leiurayer/downkyi.git",
+    "html_url": "https://github.com/leiurayer/downkyi",
+    "stargazers_count": 22895,
+    "size": 132632,
+    "commits_url": "https://api.github.com/repos/leiurayer/downkyi/commits",
+    "total_commits": 187
+  },
+  {
+    "name": "ILSpy",
+    "clone_url": "https://github.com/icsharpcode/ILSpy.git",
+    "html_url": "https://github.com/icsharpcode/ILSpy",
+    "stargazers_count": 22868,
+    "size": 43464,
+    "commits_url": "https://api.github.com/repos/icsharpcode/ILSpy/commits",
+    "total_commits": 8041
+  },
+  {
+    "name": "CodeHub",
+    "clone_url": "https://github.com/CodeHubApp/CodeHub.git",
+    "html_url": "https://github.com/CodeHubApp/CodeHub",
+    "stargazers_count": 22764,
+    "size": 75636,
+    "commits_url": "https://api.github.com/repos/CodeHubApp/CodeHub/commits",
+    "total_commits": 593
+  },
+  {
+    "name": "maui",
+    "clone_url": "https://github.com/dotnet/maui.git",
+    "html_url": "https://github.com/dotnet/maui",
+    "stargazers_count": 22653,
+    "size": 451240,
+    "commits_url": "https://api.github.com/repos/dotnet/maui/commits",
+    "total_commits": 16864
+  },
+  {
+    "name": "SteamTools",
+    "clone_url": "https://github.com/BeyondDimension/SteamTools.git",
+    "html_url": "https://github.com/BeyondDimension/SteamTools",
+    "stargazers_count": 22027,
+    "size": 267926,
+    "commits_url": "https://api.github.com/repos/BeyondDimension/SteamTools/commits",
+    "total_commits": 5172
+  },
+  {
+    "name": "awesome-dotnet-core",
+    "clone_url": "https://github.com/thangchung/awesome-dotnet-core.git",
+    "html_url": "https://github.com/thangchung/awesome-dotnet-core",
+    "stargazers_count": 20459,
+    "size": 1368,
+    "commits_url": "https://api.github.com/repos/thangchung/awesome-dotnet-core/commits",
+    "total_commits": 1269
+  },
+  {
+    "name": "QuickLook",
+    "clone_url": "https://github.com/QL-Win/QuickLook.git",
+    "html_url": "https://github.com/QL-Win/QuickLook",
+    "stargazers_count": 19550,
+    "size": 318631,
+    "commits_url": "https://api.github.com/repos/QL-Win/QuickLook/commits",
+    "total_commits": 995
+  },
+  {
+    "name": "roslyn",
+    "clone_url": "https://github.com/dotnet/roslyn.git",
+    "html_url": "https://github.com/dotnet/roslyn",
+    "stargazers_count": 19524,
+    "size": 2306598,
+    "commits_url": "https://api.github.com/repos/dotnet/roslyn/commits",
+    "total_commits": 124708
+  },
+  {
+    "name": "CleanArchitecture",
+    "clone_url": "https://github.com/jasontaylordev/CleanArchitecture.git",
+    "html_url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "stargazers_count": 18113,
+    "size": 6240,
+    "commits_url": "https://api.github.com/repos/jasontaylordev/CleanArchitecture/commits",
+    "total_commits": 740
+  },
+  {
+    "name": "ml-agents",
+    "clone_url": "https://github.com/Unity-Technologies/ml-agents.git",
+    "html_url": "https://github.com/Unity-Technologies/ml-agents",
+    "stargazers_count": 18092,
+    "size": 3023163,
+    "commits_url": "https://api.github.com/repos/Unity-Technologies/ml-agents/commits",
+    "total_commits": 3529
+  },
+  {
+    "name": "Dapper",
+    "clone_url": "https://github.com/DapperLib/Dapper.git",
+    "html_url": "https://github.com/DapperLib/Dapper",
+    "stargazers_count": 17883,
+    "size": 50004,
+    "commits_url": "https://api.github.com/repos/DapperLib/Dapper/commits",
+    "total_commits": 1609
+  },
+  {
+    "name": "CMWTAT_Digital_Edition",
+    "clone_url": "https://github.com/TGSAN/CMWTAT_Digital_Edition.git",
+    "html_url": "https://github.com/TGSAN/CMWTAT_Digital_Edition",
+    "stargazers_count": 17582,
+    "size": 59445,
+    "commits_url": "https://api.github.com/repos/TGSAN/CMWTAT_Digital_Edition/commits",
+    "total_commits": 67
+  },
+  {
+    "name": "PEASS-ng",
+    "clone_url": "https://github.com/peass-ng/PEASS-ng.git",
+    "html_url": "https://github.com/peass-ng/PEASS-ng",
+    "stargazers_count": 17473,
+    "size": 64024,
+    "commits_url": "https://api.github.com/repos/peass-ng/PEASS-ng/commits",
+    "total_commits": 1693
+  },
+  {
+    "name": "CleanArchitecture",
+    "clone_url": "https://github.com/ardalis/CleanArchitecture.git",
+    "html_url": "https://github.com/ardalis/CleanArchitecture",
+    "stargazers_count": 17026,
+    "size": 3355,
+    "commits_url": "https://api.github.com/repos/ardalis/CleanArchitecture/commits",
+    "total_commits": 642
+  },
+  {
+    "name": "netch",
+    "clone_url": "https://github.com/netchx/netch.git",
+    "html_url": "https://github.com/netchx/netch",
+    "stargazers_count": 16782,
+    "size": 11841,
+    "commits_url": "https://api.github.com/repos/netchx/netch/commits",
+    "total_commits": 418
+  },
+  {
+    "name": "osu",
+    "clone_url": "https://github.com/ppy/osu.git",
+    "html_url": "https://github.com/ppy/osu",
+    "stargazers_count": 16541,
+    "size": 183106,
+    "commits_url": "https://api.github.com/repos/ppy/osu/commits",
+    "total_commits": 73322
+  },
+  {
+    "name": "server",
+    "clone_url": "https://github.com/bitwarden/server.git",
+    "html_url": "https://github.com/bitwarden/server",
+    "stargazers_count": 16514,
+    "size": 35564,
+    "commits_url": "https://api.github.com/repos/bitwarden/server/commits",
+    "total_commits": 5815
+  },
+  {
+    "name": "lively",
+    "clone_url": "https://github.com/rocksdanister/lively.git",
+    "html_url": "https://github.com/rocksdanister/lively",
+    "stargazers_count": 16296,
+    "size": 290947,
+    "commits_url": "https://api.github.com/repos/rocksdanister/lively/commits",
+    "total_commits": 916
+  },
+  {
+    "name": "runtime",
+    "clone_url": "https://github.com/dotnet/runtime.git",
+    "html_url": "https://github.com/dotnet/runtime",
+    "stargazers_count": 16295,
+    "size": 924722,
+    "commits_url": "https://api.github.com/repos/dotnet/runtime/commits",
+    "total_commits": 138770
+  },
+  {
+    "name": "optimizer",
+    "clone_url": "https://github.com/hellzerg/optimizer.git",
+    "html_url": "https://github.com/hellzerg/optimizer",
+    "stargazers_count": 16054,
+    "size": 47555,
+    "commits_url": "https://api.github.com/repos/hellzerg/optimizer/commits",
+    "total_commits": 720
+  },
+  {
+    "name": "UniGetUI",
+    "clone_url": "https://github.com/marticliment/UniGetUI.git",
+    "html_url": "https://github.com/marticliment/UniGetUI",
+    "stargazers_count": 16041,
+    "size": 867665,
+    "commits_url": "https://api.github.com/repos/marticliment/UniGetUI/commits",
+    "total_commits": 6617
+  },
+  {
+    "name": "MaterialDesignInXamlToolkit",
+    "clone_url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit.git",
+    "html_url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+    "stargazers_count": 15581,
+    "size": 72731,
+    "commits_url": "https://api.github.com/repos/MaterialDesignInXAML/MaterialDesignInXamlToolkit/commits",
+    "total_commits": 3042
+  },
+  {
+    "name": "OpenRA",
+    "clone_url": "https://github.com/OpenRA/OpenRA.git",
+    "html_url": "https://github.com/OpenRA/OpenRA",
+    "stargazers_count": 15561,
+    "size": 344631,
+    "commits_url": "https://api.github.com/repos/OpenRA/OpenRA/commits",
+    "total_commits": 30415
+  },
+  {
+    "name": "N_m3u8DL-CLI",
+    "clone_url": "https://github.com/nilaoda/N_m3u8DL-CLI.git",
+    "html_url": "https://github.com/nilaoda/N_m3u8DL-CLI",
+    "stargazers_count": 15064,
+    "size": 6399,
+    "commits_url": "https://api.github.com/repos/nilaoda/N_m3u8DL-CLI/commits",
+    "total_commits": 367
+  },
+  {
+    "name": "Bulk-Crap-Uninstaller",
+    "clone_url": "https://github.com/Klocman/Bulk-Crap-Uninstaller.git",
+    "html_url": "https://github.com/Klocman/Bulk-Crap-Uninstaller",
+    "stargazers_count": 14586,
+    "size": 10982,
+    "commits_url": "https://api.github.com/repos/Klocman/Bulk-Crap-Uninstaller/commits",
+    "total_commits": 1580
+  },
+  {
+    "name": "ContextMenuManager",
+    "clone_url": "https://github.com/BluePointLilac/ContextMenuManager.git",
+    "html_url": "https://github.com/BluePointLilac/ContextMenuManager",
+    "stargazers_count": 14435,
+    "size": 1843,
+    "commits_url": "https://api.github.com/repos/BluePointLilac/ContextMenuManager/commits",
+    "total_commits": 255
+  },
+  {
+    "name": "efcore",
+    "clone_url": "https://github.com/dotnet/efcore.git",
+    "html_url": "https://github.com/dotnet/efcore",
+    "stargazers_count": 14110,
+    "size": 206279,
+    "commits_url": "https://api.github.com/repos/dotnet/efcore/commits",
+    "total_commits": 16415
+  },
+  {
+    "name": "AssetStudio",
+    "clone_url": "https://github.com/Perfare/AssetStudio.git",
+    "html_url": "https://github.com/Perfare/AssetStudio",
+    "stargazers_count": 14090,
+    "size": 40176,
+    "commits_url": "https://api.github.com/repos/Perfare/AssetStudio/commits",
+    "total_commits": 574
+  },
+  {
+    "name": "Polly",
+    "clone_url": "https://github.com/App-vNext/Polly.git",
+    "html_url": "https://github.com/App-vNext/Polly",
+    "stargazers_count": 13765,
+    "size": 45526,
+    "commits_url": "https://api.github.com/repos/App-vNext/Polly/commits",
+    "total_commits": 2453
+  },
+  {
+    "name": "abp",
+    "clone_url": "https://github.com/abpframework/abp.git",
+    "html_url": "https://github.com/abpframework/abp",
+    "stargazers_count": 13484,
+    "size": 1515002,
+    "commits_url": "https://api.github.com/repos/abpframework/abp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Jackett",
+    "clone_url": "https://github.com/Jackett/Jackett.git",
+    "html_url": "https://github.com/Jackett/Jackett",
+    "stargazers_count": 13360,
+    "size": 38429,
+    "commits_url": "https://api.github.com/repos/Jackett/Jackett/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "AspNetCore.Docs",
+    "clone_url": "https://github.com/dotnet/AspNetCore.Docs.git",
+    "html_url": "https://github.com/dotnet/AspNetCore.Docs",
+    "stargazers_count": 12891,
+    "size": 849504,
+    "commits_url": "https://api.github.com/repos/dotnet/AspNetCore.Docs/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "winsw",
+    "clone_url": "https://github.com/winsw/winsw.git",
+    "html_url": "https://github.com/winsw/winsw",
+    "stargazers_count": 12884,
+    "size": 3510,
+    "commits_url": "https://api.github.com/repos/winsw/winsw/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "QuestPDF",
+    "clone_url": "https://github.com/QuestPDF/QuestPDF.git",
+    "html_url": "https://github.com/QuestPDF/QuestPDF",
+    "stargazers_count": 12839,
+    "size": 590104,
+    "commits_url": "https://api.github.com/repos/QuestPDF/QuestPDF/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "duplicati",
+    "clone_url": "https://github.com/duplicati/duplicati.git",
+    "html_url": "https://github.com/duplicati/duplicati",
+    "stargazers_count": 12451,
+    "size": 182186,
+    "commits_url": "https://api.github.com/repos/duplicati/duplicati/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "UnityCsReference",
+    "clone_url": "https://github.com/Unity-Technologies/UnityCsReference.git",
+    "html_url": "https://github.com/Unity-Technologies/UnityCsReference",
+    "stargazers_count": 12247,
+    "size": 70662,
+    "commits_url": "https://api.github.com/repos/Unity-Technologies/UnityCsReference/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MonoGame",
+    "clone_url": "https://github.com/MonoGame/MonoGame.git",
+    "html_url": "https://github.com/MonoGame/MonoGame",
+    "stargazers_count": 12103,
+    "size": 96351,
+    "commits_url": "https://api.github.com/repos/MonoGame/MonoGame/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "modular-monolith-with-ddd",
+    "clone_url": "https://github.com/kgrzybek/modular-monolith-with-ddd.git",
+    "html_url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "stargazers_count": 12054,
+    "size": 8423,
+    "commits_url": "https://api.github.com/repos/kgrzybek/modular-monolith-with-ddd/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "csharplang",
+    "clone_url": "https://github.com/dotnet/csharplang.git",
+    "html_url": "https://github.com/dotnet/csharplang",
+    "stargazers_count": 11993,
+    "size": 14612,
+    "commits_url": "https://api.github.com/repos/dotnet/csharplang/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ArchiSteamFarm",
+    "clone_url": "https://github.com/JustArchiNET/ArchiSteamFarm.git",
+    "html_url": "https://github.com/JustArchiNET/ArchiSteamFarm",
+    "stargazers_count": 11972,
+    "size": 237224,
+    "commits_url": "https://api.github.com/repos/JustArchiNET/ArchiSteamFarm/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "aspnetboilerplate",
+    "clone_url": "https://github.com/aspnetboilerplate/aspnetboilerplate.git",
+    "html_url": "https://github.com/aspnetboilerplate/aspnetboilerplate",
+    "stargazers_count": 11923,
+    "size": 64927,
+    "commits_url": "https://api.github.com/repos/aspnetboilerplate/aspnetboilerplate/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Sonarr",
+    "clone_url": "https://github.com/Sonarr/Sonarr.git",
+    "html_url": "https://github.com/Sonarr/Sonarr",
+    "stargazers_count": 11757,
+    "size": 299756,
+    "commits_url": "https://api.github.com/repos/Sonarr/Sonarr/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MediatR",
+    "clone_url": "https://github.com/jbogard/MediatR.git",
+    "html_url": "https://github.com/jbogard/MediatR",
+    "stargazers_count": 11640,
+    "size": 5982,
+    "commits_url": "https://api.github.com/repos/jbogard/MediatR/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "BBDown",
+    "clone_url": "https://github.com/nilaoda/BBDown.git",
+    "html_url": "https://github.com/nilaoda/BBDown",
+    "stargazers_count": 11613,
+    "size": 18889,
+    "commits_url": "https://api.github.com/repos/nilaoda/BBDown/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Radarr",
+    "clone_url": "https://github.com/Radarr/Radarr.git",
+    "html_url": "https://github.com/Radarr/Radarr",
+    "stargazers_count": 11472,
+    "size": 314639,
+    "commits_url": "https://api.github.com/repos/Radarr/Radarr/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "YoutubeDownloader",
+    "clone_url": "https://github.com/Tyrrrz/YoutubeDownloader.git",
+    "html_url": "https://github.com/Tyrrrz/YoutubeDownloader",
+    "stargazers_count": 11453,
+    "size": 1362,
+    "commits_url": "https://api.github.com/repos/Tyrrrz/YoutubeDownloader/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "EverythingToolbar",
+    "clone_url": "https://github.com/srwi/EverythingToolbar.git",
+    "html_url": "https://github.com/srwi/EverythingToolbar",
+    "stargazers_count": 11317,
+    "size": 4769,
+    "commits_url": "https://api.github.com/repos/srwi/EverythingToolbar/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "mono",
+    "clone_url": "https://github.com/mono/mono.git",
+    "html_url": "https://github.com/mono/mono",
+    "stargazers_count": 11280,
+    "size": 579418,
+    "commits_url": "https://api.github.com/repos/mono/mono/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Lean",
+    "clone_url": "https://github.com/QuantConnect/Lean.git",
+    "html_url": "https://github.com/QuantConnect/Lean",
+    "stargazers_count": 11250,
+    "size": 541088,
+    "commits_url": "https://api.github.com/repos/QuantConnect/Lean/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "garnet",
+    "clone_url": "https://github.com/microsoft/garnet.git",
+    "html_url": "https://github.com/microsoft/garnet",
+    "stargazers_count": 11106,
+    "size": 521829,
+    "commits_url": "https://api.github.com/repos/microsoft/garnet/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Newtonsoft.Json",
+    "clone_url": "https://github.com/JamesNK/Newtonsoft.Json.git",
+    "html_url": "https://github.com/JamesNK/Newtonsoft.Json",
+    "stargazers_count": 11034,
+    "size": 26487,
+    "commits_url": "https://api.github.com/repos/JamesNK/Newtonsoft.Json/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "basic-computer-games",
+    "clone_url": "https://github.com/coding-horror/basic-computer-games.git",
+    "html_url": "https://github.com/coding-horror/basic-computer-games",
+    "stargazers_count": 10977,
+    "size": 78428,
+    "commits_url": "https://api.github.com/repos/coding-horror/basic-computer-games/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "BenchmarkDotNet",
+    "clone_url": "https://github.com/dotnet/BenchmarkDotNet.git",
+    "html_url": "https://github.com/dotnet/BenchmarkDotNet",
+    "stargazers_count": 10971,
+    "size": 54525,
+    "commits_url": "https://api.github.com/repos/dotnet/BenchmarkDotNet/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "choco",
+    "clone_url": "https://github.com/chocolatey/choco.git",
+    "html_url": "https://github.com/chocolatey/choco",
+    "stargazers_count": 10762,
+    "size": 43438,
+    "commits_url": "https://api.github.com/repos/chocolatey/choco/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Playnite",
+    "clone_url": "https://github.com/JosefNemec/Playnite.git",
+    "html_url": "https://github.com/JosefNemec/Playnite",
+    "stargazers_count": 10598,
+    "size": 67103,
+    "commits_url": "https://api.github.com/repos/JosefNemec/Playnite/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Locale-Emulator",
+    "clone_url": "https://github.com/xupefei/Locale-Emulator.git",
+    "html_url": "https://github.com/xupefei/Locale-Emulator",
+    "stargazers_count": 10584,
+    "size": 1173,
+    "commits_url": "https://api.github.com/repos/xupefei/Locale-Emulator/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "eShopOnWeb",
+    "clone_url": "https://github.com/dotnet-architecture/eShopOnWeb.git",
+    "html_url": "https://github.com/dotnet-architecture/eShopOnWeb",
+    "stargazers_count": 10394,
+    "size": 61146,
+    "commits_url": "https://api.github.com/repos/dotnet-architecture/eShopOnWeb/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "orleans",
+    "clone_url": "https://github.com/dotnet/orleans.git",
+    "html_url": "https://github.com/dotnet/orleans",
+    "stargazers_count": 10374,
+    "size": 69165,
+    "commits_url": "https://api.github.com/repos/dotnet/orleans/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Captura",
+    "clone_url": "https://github.com/MathewSachin/Captura.git",
+    "html_url": "https://github.com/MathewSachin/Captura",
+    "stargazers_count": 10190,
+    "size": 5730,
+    "commits_url": "https://api.github.com/repos/MathewSachin/Captura/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ImageGlass",
+    "clone_url": "https://github.com/d2phap/ImageGlass.git",
+    "html_url": "https://github.com/d2phap/ImageGlass",
+    "stargazers_count": 10187,
+    "size": 475216,
+    "commits_url": "https://api.github.com/repos/d2phap/ImageGlass/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "spectre.console",
+    "clone_url": "https://github.com/spectreconsole/spectre.console.git",
+    "html_url": "https://github.com/spectreconsole/spectre.console",
+    "stargazers_count": 10136,
+    "size": 10998,
+    "commits_url": "https://api.github.com/repos/spectreconsole/spectre.console/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "AutoMapper",
+    "clone_url": "https://github.com/AutoMapper/AutoMapper.git",
+    "html_url": "https://github.com/AutoMapper/AutoMapper",
+    "stargazers_count": 10131,
+    "size": 127185,
+    "commits_url": "https://api.github.com/repos/AutoMapper/AutoMapper/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "subtitleedit",
+    "clone_url": "https://github.com/SubtitleEdit/subtitleedit.git",
+    "html_url": "https://github.com/SubtitleEdit/subtitleedit",
+    "stargazers_count": 10100,
+    "size": 468931,
+    "commits_url": "https://api.github.com/repos/SubtitleEdit/subtitleedit/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Terminal.Gui",
+    "clone_url": "https://github.com/gui-cs/Terminal.Gui.git",
+    "html_url": "https://github.com/gui-cs/Terminal.Gui",
+    "stargazers_count": 10061,
+    "size": 97267,
+    "commits_url": "https://api.github.com/repos/gui-cs/Terminal.Gui/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "FileConverter",
+    "clone_url": "https://github.com/Tichau/FileConverter.git",
+    "html_url": "https://github.com/Tichau/FileConverter",
+    "stargazers_count": 10033,
+    "size": 213001,
+    "commits_url": "https://api.github.com/repos/Tichau/FileConverter/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "CefSharp",
+    "clone_url": "https://github.com/cefsharp/CefSharp.git",
+    "html_url": "https://github.com/cefsharp/CefSharp",
+    "stargazers_count": 10029,
+    "size": 288694,
+    "commits_url": "https://api.github.com/repos/cefsharp/CefSharp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "PDFPatcher",
+    "clone_url": "https://github.com/wmjordan/PDFPatcher.git",
+    "html_url": "https://github.com/wmjordan/PDFPatcher",
+    "stargazers_count": 9988,
+    "size": 43986,
+    "commits_url": "https://api.github.com/repos/wmjordan/PDFPatcher/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "practical-aspnetcore",
+    "clone_url": "https://github.com/dodyg/practical-aspnetcore.git",
+    "html_url": "https://github.com/dodyg/practical-aspnetcore",
+    "stargazers_count": 9942,
+    "size": 45064,
+    "commits_url": "https://api.github.com/repos/dodyg/practical-aspnetcore/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Dependencies",
+    "clone_url": "https://github.com/lucasg/Dependencies.git",
+    "html_url": "https://github.com/lucasg/Dependencies",
+    "stargazers_count": 9890,
+    "size": 15341,
+    "commits_url": "https://api.github.com/repos/lucasg/Dependencies/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "LKY_OfficeTools",
+    "clone_url": "https://github.com/OdysseusYuan/LKY_OfficeTools.git",
+    "html_url": "https://github.com/OdysseusYuan/LKY_OfficeTools",
+    "stargazers_count": 9808,
+    "size": 49445,
+    "commits_url": "https://api.github.com/repos/OdysseusYuan/LKY_OfficeTools/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Flow.Launcher",
+    "clone_url": "https://github.com/Flow-Launcher/Flow.Launcher.git",
+    "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+    "stargazers_count": 9785,
+    "size": 91933,
+    "commits_url": "https://api.github.com/repos/Flow-Launcher/Flow.Launcher/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "RestSharp",
+    "clone_url": "https://github.com/restsharp/RestSharp.git",
+    "html_url": "https://github.com/restsharp/RestSharp",
+    "stargazers_count": 9741,
+    "size": 41566,
+    "commits_url": "https://api.github.com/repos/restsharp/RestSharp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Hangfire",
+    "clone_url": "https://github.com/HangfireIO/Hangfire.git",
+    "html_url": "https://github.com/HangfireIO/Hangfire",
+    "stargazers_count": 9672,
+    "size": 38382,
+    "commits_url": "https://api.github.com/repos/HangfireIO/Hangfire/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "g-helper",
+    "clone_url": "https://github.com/seerge/g-helper.git",
+    "html_url": "https://github.com/seerge/g-helper",
+    "stargazers_count": 9631,
+    "size": 40278,
+    "commits_url": "https://api.github.com/repos/seerge/g-helper/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "mRemoteNG",
+    "clone_url": "https://github.com/mRemoteNG/mRemoteNG.git",
+    "html_url": "https://github.com/mRemoteNG/mRemoteNG",
+    "stargazers_count": 9616,
+    "size": 265577,
+    "commits_url": "https://api.github.com/repos/mRemoteNG/mRemoteNG/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "nopCommerce",
+    "clone_url": "https://github.com/nopSolutions/nopCommerce.git",
+    "html_url": "https://github.com/nopSolutions/nopCommerce",
+    "stargazers_count": 9607,
+    "size": 1406860,
+    "commits_url": "https://api.github.com/repos/nopSolutions/nopCommerce/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "EarTrumpet",
+    "clone_url": "https://github.com/File-New-Project/EarTrumpet.git",
+    "html_url": "https://github.com/File-New-Project/EarTrumpet",
+    "stargazers_count": 9599,
+    "size": 35319,
+    "commits_url": "https://api.github.com/repos/File-New-Project/EarTrumpet/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MahApps.Metro",
+    "clone_url": "https://github.com/MahApps/MahApps.Metro.git",
+    "html_url": "https://github.com/MahApps/MahApps.Metro",
+    "stargazers_count": 9576,
+    "size": 121459,
+    "commits_url": "https://api.github.com/repos/MahApps/MahApps.Metro/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "FluentTerminal",
+    "clone_url": "https://github.com/felixse/FluentTerminal.git",
+    "html_url": "https://github.com/felixse/FluentTerminal",
+    "stargazers_count": 9393,
+    "size": 18890,
+    "commits_url": "https://api.github.com/repos/felixse/FluentTerminal/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "uno",
+    "clone_url": "https://github.com/unoplatform/uno.git",
+    "html_url": "https://github.com/unoplatform/uno",
+    "stargazers_count": 9349,
+    "size": 276706,
+    "commits_url": "https://api.github.com/repos/unoplatform/uno/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "FluentValidation",
+    "clone_url": "https://github.com/FluentValidation/FluentValidation.git",
+    "html_url": "https://github.com/FluentValidation/FluentValidation",
+    "stargazers_count": 9347,
+    "size": 19975,
+    "commits_url": "https://api.github.com/repos/FluentValidation/FluentValidation/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "UniTask",
+    "clone_url": "https://github.com/Cysharp/UniTask.git",
+    "html_url": "https://github.com/Cysharp/UniTask",
+    "stargazers_count": 9272,
+    "size": 5946,
+    "commits_url": "https://api.github.com/repos/Cysharp/UniTask/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "SignalR",
+    "clone_url": "https://github.com/SignalR/SignalR.git",
+    "html_url": "https://github.com/SignalR/SignalR",
+    "stargazers_count": 9271,
+    "size": 44643,
+    "commits_url": "https://api.github.com/repos/SignalR/SignalR/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Notepads",
+    "clone_url": "https://github.com/0x7c13/Notepads.git",
+    "html_url": "https://github.com/0x7c13/Notepads",
+    "stargazers_count": 9254,
+    "size": 40400,
+    "commits_url": "https://api.github.com/repos/0x7c13/Notepads/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Bogus",
+    "clone_url": "https://github.com/bchavez/Bogus.git",
+    "html_url": "https://github.com/bchavez/Bogus",
+    "stargazers_count": 9252,
+    "size": 6380,
+    "commits_url": "https://api.github.com/repos/bchavez/Bogus/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ET",
+    "clone_url": "https://github.com/egametang/ET.git",
+    "html_url": "https://github.com/egametang/ET",
+    "stargazers_count": 9251,
+    "size": 161448,
+    "commits_url": "https://api.github.com/repos/egametang/ET/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Quasar",
+    "clone_url": "https://github.com/quasar/Quasar.git",
+    "html_url": "https://github.com/quasar/Quasar",
+    "stargazers_count": 9241,
+    "size": 5205,
+    "commits_url": "https://api.github.com/repos/quasar/Quasar/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "machinelearning",
+    "clone_url": "https://github.com/dotnet/machinelearning.git",
+    "html_url": "https://github.com/dotnet/machinelearning",
+    "stargazers_count": 9179,
+    "size": 101217,
+    "commits_url": "https://api.github.com/repos/dotnet/machinelearning/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "refit",
+    "clone_url": "https://github.com/reactiveui/refit.git",
+    "html_url": "https://github.com/reactiveui/refit",
+    "stargazers_count": 9046,
+    "size": 15908,
+    "commits_url": "https://api.github.com/repos/reactiveui/refit/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MudBlazor",
+    "clone_url": "https://github.com/MudBlazor/MudBlazor.git",
+    "html_url": "https://github.com/MudBlazor/MudBlazor",
+    "stargazers_count": 9027,
+    "size": 38233,
+    "commits_url": "https://api.github.com/repos/MudBlazor/MudBlazor/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "yarp",
+    "clone_url": "https://github.com/dotnet/yarp.git",
+    "html_url": "https://github.com/dotnet/yarp",
+    "stargazers_count": 9019,
+    "size": 22771,
+    "commits_url": "https://api.github.com/repos/dotnet/yarp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Humanizer",
+    "clone_url": "https://github.com/Humanizr/Humanizer.git",
+    "html_url": "https://github.com/Humanizr/Humanizer",
+    "stargazers_count": 8896,
+    "size": 8685,
+    "commits_url": "https://api.github.com/repos/Humanizr/Humanizer/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "LiteDB",
+    "clone_url": "https://github.com/litedb-org/LiteDB.git",
+    "html_url": "https://github.com/litedb-org/LiteDB",
+    "stargazers_count": 8895,
+    "size": 46011,
+    "commits_url": "https://api.github.com/repos/litedb-org/LiteDB/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "DiscordChatExporter",
+    "clone_url": "https://github.com/Tyrrrz/DiscordChatExporter.git",
+    "html_url": "https://github.com/Tyrrrz/DiscordChatExporter",
+    "stargazers_count": 8675,
+    "size": 3481,
+    "commits_url": "https://api.github.com/repos/Tyrrrz/DiscordChatExporter/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "WeiXinMPSDK",
+    "clone_url": "https://github.com/JeffreySu/WeiXinMPSDK.git",
+    "html_url": "https://github.com/JeffreySu/WeiXinMPSDK",
+    "stargazers_count": 8618,
+    "size": 153615,
+    "commits_url": "https://api.github.com/repos/JeffreySu/WeiXinMPSDK/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "imewlconverter",
+    "clone_url": "https://github.com/studyzy/imewlconverter.git",
+    "html_url": "https://github.com/studyzy/imewlconverter",
+    "stargazers_count": 8565,
+    "size": 59017,
+    "commits_url": "https://api.github.com/repos/studyzy/imewlconverter/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Ocelot",
+    "clone_url": "https://github.com/ThreeMammals/Ocelot.git",
+    "html_url": "https://github.com/ThreeMammals/Ocelot",
+    "stargazers_count": 8531,
+    "size": 7307,
+    "commits_url": "https://api.github.com/repos/ThreeMammals/Ocelot/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "jynew",
+    "clone_url": "https://github.com/jynew/jynew.git",
+    "html_url": "https://github.com/jynew/jynew",
+    "stargazers_count": 8410,
+    "size": 5334068,
+    "commits_url": "https://api.github.com/repos/jynew/jynew/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "AspNetCoreDiagnosticScenarios",
+    "clone_url": "https://github.com/davidfowl/AspNetCoreDiagnosticScenarios.git",
+    "html_url": "https://github.com/davidfowl/AspNetCoreDiagnosticScenarios",
+    "stargazers_count": 8401,
+    "size": 255,
+    "commits_url": "https://api.github.com/repos/davidfowl/AspNetCoreDiagnosticScenarios/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "better-genshin-impact",
+    "clone_url": "https://github.com/babalae/better-genshin-impact.git",
+    "html_url": "https://github.com/babalae/better-genshin-impact",
+    "stargazers_count": 8357,
+    "size": 352076,
+    "commits_url": "https://api.github.com/repos/babalae/better-genshin-impact/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "DotNetGuide",
+    "clone_url": "https://github.com/YSGStudyHards/DotNetGuide.git",
+    "html_url": "https://github.com/YSGStudyHards/DotNetGuide",
+    "stargazers_count": 8350,
+    "size": 4211,
+    "commits_url": "https://api.github.com/repos/YSGStudyHards/DotNetGuide/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "wpfui",
+    "clone_url": "https://github.com/lepoco/wpfui.git",
+    "html_url": "https://github.com/lepoco/wpfui",
+    "stargazers_count": 8349,
+    "size": 44169,
+    "commits_url": "https://api.github.com/repos/lepoco/wpfui/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Bili.Uwp",
+    "clone_url": "https://github.com/Richasy/Bili.Uwp.git",
+    "html_url": "https://github.com/Richasy/Bili.Uwp",
+    "stargazers_count": 8344,
+    "size": 139918,
+    "commits_url": "https://api.github.com/repos/Richasy/Bili.Uwp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Windows-Auto-Night-Mode",
+    "clone_url": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode.git",
+    "html_url": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode",
+    "stargazers_count": 8287,
+    "size": 19790,
+    "commits_url": "https://api.github.com/repos/AutoDarkMode/Windows-Auto-Night-Mode/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ReactiveUI",
+    "clone_url": "https://github.com/reactiveui/ReactiveUI.git",
+    "html_url": "https://github.com/reactiveui/ReactiveUI",
+    "stargazers_count": 8282,
+    "size": 89390,
+    "commits_url": "https://api.github.com/repos/reactiveui/ReactiveUI/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Unity3DTraining",
+    "clone_url": "https://github.com/XINCGer/Unity3DTraining.git",
+    "html_url": "https://github.com/XINCGer/Unity3DTraining",
+    "stargazers_count": 8216,
+    "size": 753606,
+    "commits_url": "https://api.github.com/repos/XINCGer/Unity3DTraining/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "gitextensions",
+    "clone_url": "https://github.com/gitextensions/gitextensions.git",
+    "html_url": "https://github.com/gitextensions/gitextensions",
+    "stargazers_count": 8034,
+    "size": 145749,
+    "commits_url": "https://api.github.com/repos/gitextensions/gitextensions/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "StockSharp",
+    "clone_url": "https://github.com/StockSharp/StockSharp.git",
+    "html_url": "https://github.com/StockSharp/StockSharp",
+    "stargazers_count": 8027,
+    "size": 1933441,
+    "commits_url": "https://api.github.com/repos/StockSharp/StockSharp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "eShop",
+    "clone_url": "https://github.com/dotnet/eShop.git",
+    "html_url": "https://github.com/dotnet/eShop",
+    "stargazers_count": 8026,
+    "size": 25289,
+    "commits_url": "https://api.github.com/repos/dotnet/eShop/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "blockchain",
+    "clone_url": "https://github.com/dvf/blockchain.git",
+    "html_url": "https://github.com/dvf/blockchain",
+    "stargazers_count": 7932,
+    "size": 127,
+    "commits_url": "https://api.github.com/repos/dvf/blockchain/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "DriverStoreExplorer",
+    "clone_url": "https://github.com/lostindark/DriverStoreExplorer.git",
+    "html_url": "https://github.com/lostindark/DriverStoreExplorer",
+    "stargazers_count": 7931,
+    "size": 1715,
+    "commits_url": "https://api.github.com/repos/lostindark/DriverStoreExplorer/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Kavita",
+    "clone_url": "https://github.com/Kareadita/Kavita.git",
+    "html_url": "https://github.com/Kareadita/Kavita",
+    "stargazers_count": 7797,
+    "size": 189646,
+    "commits_url": "https://api.github.com/repos/Kareadita/Kavita/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ailab",
+    "clone_url": "https://github.com/microsoft/ailab.git",
+    "html_url": "https://github.com/microsoft/ailab",
+    "stargazers_count": 7792,
+    "size": 103614,
+    "commits_url": "https://api.github.com/repos/microsoft/ailab/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MarkovJunior",
+    "clone_url": "https://github.com/mxgmn/MarkovJunior.git",
+    "html_url": "https://github.com/mxgmn/MarkovJunior",
+    "stargazers_count": 7761,
+    "size": 14931,
+    "commits_url": "https://api.github.com/repos/mxgmn/MarkovJunior/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "OrchardCore",
+    "clone_url": "https://github.com/OrchardCMS/OrchardCore.git",
+    "html_url": "https://github.com/OrchardCMS/OrchardCore",
+    "stargazers_count": 7686,
+    "size": 258947,
+    "commits_url": "https://api.github.com/repos/OrchardCMS/OrchardCore/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Il2CppDumper",
+    "clone_url": "https://github.com/Perfare/Il2CppDumper.git",
+    "html_url": "https://github.com/Perfare/Il2CppDumper",
+    "stargazers_count": 7682,
+    "size": 1005,
+    "commits_url": "https://api.github.com/repos/Perfare/Il2CppDumper/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ImageSharp",
+    "clone_url": "https://github.com/SixLabors/ImageSharp.git",
+    "html_url": "https://github.com/SixLabors/ImageSharp",
+    "stargazers_count": 7681,
+    "size": 133427,
+    "commits_url": "https://api.github.com/repos/SixLabors/ImageSharp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "git-credential-manager",
+    "clone_url": "https://github.com/git-ecosystem/git-credential-manager.git",
+    "html_url": "https://github.com/git-ecosystem/git-credential-manager",
+    "stargazers_count": 7601,
+    "size": 6608,
+    "commits_url": "https://api.github.com/repos/git-ecosystem/git-credential-manager/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "EntityComponentSystemSamples",
+    "clone_url": "https://github.com/Unity-Technologies/EntityComponentSystemSamples.git",
+    "html_url": "https://github.com/Unity-Technologies/EntityComponentSystemSamples",
+    "stargazers_count": 7597,
+    "size": 613823,
+    "commits_url": "https://api.github.com/repos/Unity-Technologies/EntityComponentSystemSamples/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "serilog",
+    "clone_url": "https://github.com/serilog/serilog.git",
+    "html_url": "https://github.com/serilog/serilog",
+    "stargazers_count": 7537,
+    "size": 76427,
+    "commits_url": "https://api.github.com/repos/serilog/serilog/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "C-Sharp",
+    "clone_url": "https://github.com/TheAlgorithms/C-Sharp.git",
+    "html_url": "https://github.com/TheAlgorithms/C-Sharp",
+    "stargazers_count": 7490,
+    "size": 1568,
+    "commits_url": "https://api.github.com/repos/TheAlgorithms/C-Sharp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Electron.NET",
+    "clone_url": "https://github.com/ElectronNET/Electron.NET.git",
+    "html_url": "https://github.com/ElectronNET/Electron.NET",
+    "stargazers_count": 7442,
+    "size": 5557,
+    "commits_url": "https://api.github.com/repos/ElectronNET/Electron.NET/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "clean-code-dotnet",
+    "clone_url": "https://github.com/thangchung/clean-code-dotnet.git",
+    "html_url": "https://github.com/thangchung/clean-code-dotnet",
+    "stargazers_count": 7407,
+    "size": 38226,
+    "commits_url": "https://api.github.com/repos/thangchung/clean-code-dotnet/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Entitas",
+    "clone_url": "https://github.com/sschmid/Entitas.git",
+    "html_url": "https://github.com/sschmid/Entitas",
+    "stargazers_count": 7390,
+    "size": 85683,
+    "commits_url": "https://api.github.com/repos/sschmid/Entitas/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MassTransit",
+    "clone_url": "https://github.com/MassTransit/MassTransit.git",
+    "html_url": "https://github.com/MassTransit/MassTransit",
+    "stargazers_count": 7386,
+    "size": 53859,
+    "commits_url": "https://api.github.com/repos/MassTransit/MassTransit/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "wpf",
+    "clone_url": "https://github.com/dotnet/wpf.git",
+    "html_url": "https://github.com/dotnet/wpf",
+    "stargazers_count": 7307,
+    "size": 66849,
+    "commits_url": "https://api.github.com/repos/dotnet/wpf/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "BiliBiliToolPro",
+    "clone_url": "https://github.com/RayWangQvQ/BiliBiliToolPro.git",
+    "html_url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "stargazers_count": 7300,
+    "size": 9496,
+    "commits_url": "https://api.github.com/repos/RayWangQvQ/BiliBiliToolPro/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "NETworkManager",
+    "clone_url": "https://github.com/BornToBeRoot/NETworkManager.git",
+    "html_url": "https://github.com/BornToBeRoot/NETworkManager",
+    "stargazers_count": 7225,
+    "size": 100003,
+    "commits_url": "https://api.github.com/repos/BornToBeRoot/NETworkManager/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "UniRx",
+    "clone_url": "https://github.com/neuecc/UniRx.git",
+    "html_url": "https://github.com/neuecc/UniRx",
+    "stargazers_count": 7216,
+    "size": 8416,
+    "commits_url": "https://api.github.com/repos/neuecc/UniRx/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "xdm",
+    "clone_url": "https://github.com/subhra74/xdm.git",
+    "html_url": "https://github.com/subhra74/xdm",
+    "stargazers_count": 7166,
+    "size": 304146,
+    "commits_url": "https://api.github.com/repos/subhra74/xdm/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Nancy",
+    "clone_url": "https://github.com/NancyFx/Nancy.git",
+    "html_url": "https://github.com/NancyFx/Nancy",
+    "stargazers_count": 7148,
+    "size": 45465,
+    "commits_url": "https://api.github.com/repos/NancyFx/Nancy/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "de4dot",
+    "clone_url": "https://github.com/de4dot/de4dot.git",
+    "html_url": "https://github.com/de4dot/de4dot",
+    "stargazers_count": 7138,
+    "size": 5753,
+    "commits_url": "https://api.github.com/repos/de4dot/de4dot/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "OFGB",
+    "clone_url": "https://github.com/xM4ddy/OFGB.git",
+    "html_url": "https://github.com/xM4ddy/OFGB",
+    "stargazers_count": 7076,
+    "size": 74,
+    "commits_url": "https://api.github.com/repos/xM4ddy/OFGB/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "elsa-core",
+    "clone_url": "https://github.com/elsa-workflows/elsa-core.git",
+    "html_url": "https://github.com/elsa-workflows/elsa-core",
+    "stargazers_count": 7055,
+    "size": 93631,
+    "commits_url": "https://api.github.com/repos/elsa-workflows/elsa-core/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "RunCat_for_windows",
+    "clone_url": "https://github.com/Kyome22/RunCat_for_windows.git",
+    "html_url": "https://github.com/Kyome22/RunCat_for_windows",
+    "stargazers_count": 7026,
+    "size": 236,
+    "commits_url": "https://api.github.com/repos/Kyome22/RunCat_for_windows/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ShadowsocksR-Windows",
+    "clone_url": "https://github.com/HMBSbige/ShadowsocksR-Windows.git",
+    "html_url": "https://github.com/HMBSbige/ShadowsocksR-Windows",
+    "stargazers_count": 7023,
+    "size": 15567,
+    "commits_url": "https://api.github.com/repos/HMBSbige/ShadowsocksR-Windows/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "NSwag",
+    "clone_url": "https://github.com/RicoSuter/NSwag.git",
+    "html_url": "https://github.com/RicoSuter/NSwag",
+    "stargazers_count": 7023,
+    "size": 64016,
+    "commits_url": "https://api.github.com/repos/RicoSuter/NSwag/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "stride",
+    "clone_url": "https://github.com/stride3d/stride.git",
+    "html_url": "https://github.com/stride3d/stride",
+    "stargazers_count": 6958,
+    "size": 38747,
+    "commits_url": "https://api.github.com/repos/stride3d/stride/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "reactive",
+    "clone_url": "https://github.com/dotnet/reactive.git",
+    "html_url": "https://github.com/dotnet/reactive",
+    "stargazers_count": 6900,
+    "size": 45418,
+    "commits_url": "https://api.github.com/repos/dotnet/reactive/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "CAP",
+    "clone_url": "https://github.com/dotnetcore/CAP.git",
+    "html_url": "https://github.com/dotnetcore/CAP",
+    "stargazers_count": 6879,
+    "size": 13905,
+    "commits_url": "https://api.github.com/repos/dotnetcore/CAP/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "language-ext",
+    "clone_url": "https://github.com/louthy/language-ext.git",
+    "html_url": "https://github.com/louthy/language-ext",
+    "stargazers_count": 6789,
+    "size": 23301,
+    "commits_url": "https://api.github.com/repos/louthy/language-ext/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "btcpayserver",
+    "clone_url": "https://github.com/btcpayserver/btcpayserver.git",
+    "html_url": "https://github.com/btcpayserver/btcpayserver",
+    "stargazers_count": 6746,
+    "size": 59002,
+    "commits_url": "https://api.github.com/repos/btcpayserver/btcpayserver/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "quartznet",
+    "clone_url": "https://github.com/quartznet/quartznet.git",
+    "html_url": "https://github.com/quartznet/quartznet",
+    "stargazers_count": 6742,
+    "size": 30909,
+    "commits_url": "https://api.github.com/repos/quartznet/quartznet/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "EquinoxProject",
+    "clone_url": "https://github.com/EduardoPires/EquinoxProject.git",
+    "html_url": "https://github.com/EduardoPires/EquinoxProject",
+    "stargazers_count": 6590,
+    "size": 1731,
+    "commits_url": "https://api.github.com/repos/EduardoPires/EquinoxProject/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Prism",
+    "clone_url": "https://github.com/PrismLibrary/Prism.git",
+    "html_url": "https://github.com/PrismLibrary/Prism",
+    "stargazers_count": 6520,
+    "size": 30437,
+    "commits_url": "https://api.github.com/repos/PrismLibrary/Prism/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "HandyControl",
+    "clone_url": "https://github.com/HandyOrg/HandyControl.git",
+    "html_url": "https://github.com/HandyOrg/HandyControl",
+    "stargazers_count": 6508,
+    "size": 53021,
+    "commits_url": "https://api.github.com/repos/HandyOrg/HandyControl/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "SteamAchievementManager",
+    "clone_url": "https://github.com/gibbed/SteamAchievementManager.git",
+    "html_url": "https://github.com/gibbed/SteamAchievementManager",
+    "stargazers_count": 6470,
+    "size": 182,
+    "commits_url": "https://api.github.com/repos/gibbed/SteamAchievementManager/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "sharpkeys",
+    "clone_url": "https://github.com/randyrants/sharpkeys.git",
+    "html_url": "https://github.com/randyrants/sharpkeys",
+    "stargazers_count": 6460,
+    "size": 179,
+    "commits_url": "https://api.github.com/repos/randyrants/sharpkeys/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "LibreHardwareMonitor",
+    "clone_url": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor.git",
+    "html_url": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor",
+    "stargazers_count": 6443,
+    "size": 4812,
+    "commits_url": "https://api.github.com/repos/LibreHardwareMonitor/LibreHardwareMonitor/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MailKit",
+    "clone_url": "https://github.com/jstedfast/MailKit.git",
+    "html_url": "https://github.com/jstedfast/MailKit",
+    "stargazers_count": 6430,
+    "size": 25487,
+    "commits_url": "https://api.github.com/repos/jstedfast/MailKit/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "NLog",
+    "clone_url": "https://github.com/NLog/NLog.git",
+    "html_url": "https://github.com/NLog/NLog",
+    "stargazers_count": 6420,
+    "size": 117005,
+    "commits_url": "https://api.github.com/repos/NLog/NLog/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "FASTER",
+    "clone_url": "https://github.com/microsoft/FASTER.git",
+    "html_url": "https://github.com/microsoft/FASTER",
+    "stargazers_count": 6419,
+    "size": 9345,
+    "commits_url": "https://api.github.com/repos/microsoft/FASTER/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "LenovoLegionToolkit",
+    "clone_url": "https://github.com/BartoszCichecki/LenovoLegionToolkit.git",
+    "html_url": "https://github.com/BartoszCichecki/LenovoLegionToolkit",
+    "stargazers_count": 6381,
+    "size": 20729,
+    "commits_url": "https://api.github.com/repos/BartoszCichecki/LenovoLegionToolkit/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "UIEffect",
+    "clone_url": "https://github.com/mob-sakai/UIEffect.git",
+    "html_url": "https://github.com/mob-sakai/UIEffect",
+    "stargazers_count": 6325,
+    "size": 41104,
+    "commits_url": "https://api.github.com/repos/mob-sakai/UIEffect/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "GameFramework",
+    "clone_url": "https://github.com/EllanJiang/GameFramework.git",
+    "html_url": "https://github.com/EllanJiang/GameFramework",
+    "stargazers_count": 6261,
+    "size": 6767,
+    "commits_url": "https://api.github.com/repos/EllanJiang/GameFramework/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MessagePack-CSharp",
+    "clone_url": "https://github.com/MessagePack-CSharp/MessagePack-CSharp.git",
+    "html_url": "https://github.com/MessagePack-CSharp/MessagePack-CSharp",
+    "stargazers_count": 6174,
+    "size": 12668,
+    "commits_url": "https://api.github.com/repos/MessagePack-CSharp/MessagePack-CSharp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "FlaxEngine",
+    "clone_url": "https://github.com/FlaxEngine/FlaxEngine.git",
+    "html_url": "https://github.com/FlaxEngine/FlaxEngine",
+    "stargazers_count": 6174,
+    "size": 67931,
+    "commits_url": "https://api.github.com/repos/FlaxEngine/FlaxEngine/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "openhardwaremonitor",
+    "clone_url": "https://github.com/openhardwaremonitor/openhardwaremonitor.git",
+    "html_url": "https://github.com/openhardwaremonitor/openhardwaremonitor",
+    "stargazers_count": 6147,
+    "size": 2290,
+    "commits_url": "https://api.github.com/repos/openhardwaremonitor/openhardwaremonitor/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "moq",
+    "clone_url": "https://github.com/devlooped/moq.git",
+    "html_url": "https://github.com/devlooped/moq",
+    "stargazers_count": 6140,
+    "size": 23028,
+    "commits_url": "https://api.github.com/repos/devlooped/moq/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "SyncTrayzor",
+    "clone_url": "https://github.com/canton7/SyncTrayzor.git",
+    "html_url": "https://github.com/canton7/SyncTrayzor",
+    "stargazers_count": 6135,
+    "size": 15731,
+    "commits_url": "https://api.github.com/repos/canton7/SyncTrayzor/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MixedRealityToolkit-Unity",
+    "clone_url": "https://github.com/microsoft/MixedRealityToolkit-Unity.git",
+    "html_url": "https://github.com/microsoft/MixedRealityToolkit-Unity",
+    "stargazers_count": 6052,
+    "size": 1919939,
+    "commits_url": "https://api.github.com/repos/microsoft/MixedRealityToolkit-Unity/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "C-Sharp-Algorithms",
+    "clone_url": "https://github.com/aalhour/C-Sharp-Algorithms.git",
+    "html_url": "https://github.com/aalhour/C-Sharp-Algorithms",
+    "stargazers_count": 6044,
+    "size": 3346,
+    "commits_url": "https://api.github.com/repos/aalhour/C-Sharp-Algorithms/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "VFSForGit",
+    "clone_url": "https://github.com/microsoft/VFSForGit.git",
+    "html_url": "https://github.com/microsoft/VFSForGit",
+    "stargazers_count": 6029,
+    "size": 8627,
+    "commits_url": "https://api.github.com/repos/microsoft/VFSForGit/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "StackExchange.Redis",
+    "clone_url": "https://github.com/StackExchange/StackExchange.Redis.git",
+    "html_url": "https://github.com/StackExchange/StackExchange.Redis",
+    "stargazers_count": 6007,
+    "size": 28186,
+    "commits_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ant-design-blazor",
+    "clone_url": "https://github.com/ant-design-blazor/ant-design-blazor.git",
+    "html_url": "https://github.com/ant-design-blazor/ant-design-blazor",
+    "stargazers_count": 5985,
+    "size": 88937,
+    "commits_url": "https://api.github.com/repos/ant-design-blazor/ant-design-blazor/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "WindowsCommunityToolkit",
+    "clone_url": "https://github.com/CommunityToolkit/WindowsCommunityToolkit.git",
+    "html_url": "https://github.com/CommunityToolkit/WindowsCommunityToolkit",
+    "stargazers_count": 5982,
+    "size": 309497,
+    "commits_url": "https://api.github.com/repos/CommunityToolkit/WindowsCommunityToolkit/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "StabilityMatrix",
+    "clone_url": "https://github.com/LykosAI/StabilityMatrix.git",
+    "html_url": "https://github.com/LykosAI/StabilityMatrix",
+    "stargazers_count": 5969,
+    "size": 138981,
+    "commits_url": "https://api.github.com/repos/LykosAI/StabilityMatrix/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "graphql-dotnet",
+    "clone_url": "https://github.com/graphql-dotnet/graphql-dotnet.git",
+    "html_url": "https://github.com/graphql-dotnet/graphql-dotnet",
+    "stargazers_count": 5931,
+    "size": 15473,
+    "commits_url": "https://api.github.com/repos/graphql-dotnet/graphql-dotnet/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "npoi",
+    "clone_url": "https://github.com/nissl-lab/npoi.git",
+    "html_url": "https://github.com/nissl-lab/npoi",
+    "stargazers_count": 5914,
+    "size": 133825,
+    "commits_url": "https://api.github.com/repos/nissl-lab/npoi/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "websocket-sharp",
+    "clone_url": "https://github.com/sta/websocket-sharp.git",
+    "html_url": "https://github.com/sta/websocket-sharp",
+    "stargazers_count": 5896,
+    "size": 17946,
+    "commits_url": "https://api.github.com/repos/sta/websocket-sharp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Borderless-Gaming",
+    "clone_url": "https://github.com/Codeusa/Borderless-Gaming.git",
+    "html_url": "https://github.com/Codeusa/Borderless-Gaming",
+    "stargazers_count": 5878,
+    "size": 7008,
+    "commits_url": "https://api.github.com/repos/Codeusa/Borderless-Gaming/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "open-project-1",
+    "clone_url": "https://github.com/UnityTechnologies/open-project-1.git",
+    "html_url": "https://github.com/UnityTechnologies/open-project-1",
+    "stargazers_count": 5877,
+    "size": 4876097,
+    "commits_url": "https://api.github.com/repos/UnityTechnologies/open-project-1/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Masuit.Tools",
+    "clone_url": "https://github.com/ldqk/Masuit.Tools.git",
+    "html_url": "https://github.com/ldqk/Masuit.Tools",
+    "stargazers_count": 5838,
+    "size": 10821,
+    "commits_url": "https://api.github.com/repos/ldqk/Masuit.Tools/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "stateless",
+    "clone_url": "https://github.com/dotnet-state-machine/stateless.git",
+    "html_url": "https://github.com/dotnet-state-machine/stateless",
+    "stargazers_count": 5820,
+    "size": 7981,
+    "commits_url": "https://api.github.com/repos/dotnet-state-machine/stateless/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ScottPlot",
+    "clone_url": "https://github.com/ScottPlot/ScottPlot.git",
+    "html_url": "https://github.com/ScottPlot/ScottPlot",
+    "stargazers_count": 5816,
+    "size": 142752,
+    "commits_url": "https://api.github.com/repos/ScottPlot/ScottPlot/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "docker-lambda",
+    "clone_url": "https://github.com/lambci/docker-lambda.git",
+    "html_url": "https://github.com/lambci/docker-lambda",
+    "stargazers_count": 5814,
+    "size": 28319,
+    "commits_url": "https://api.github.com/repos/lambci/docker-lambda/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "N_m3u8DL-RE",
+    "clone_url": "https://github.com/nilaoda/N_m3u8DL-RE.git",
+    "html_url": "https://github.com/nilaoda/N_m3u8DL-RE",
+    "stargazers_count": 5810,
+    "size": 3608,
+    "commits_url": "https://api.github.com/repos/nilaoda/N_m3u8DL-RE/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "NAudio",
+    "clone_url": "https://github.com/naudio/NAudio.git",
+    "html_url": "https://github.com/naudio/NAudio",
+    "stargazers_count": 5804,
+    "size": 10868,
+    "commits_url": "https://api.github.com/repos/naudio/NAudio/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ToastFish",
+    "clone_url": "https://github.com/Uahh/ToastFish.git",
+    "html_url": "https://github.com/Uahh/ToastFish",
+    "stargazers_count": 5790,
+    "size": 51535,
+    "commits_url": "https://api.github.com/repos/Uahh/ToastFish/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "azure-sdk-for-net",
+    "clone_url": "https://github.com/Azure/azure-sdk-for-net.git",
+    "html_url": "https://github.com/Azure/azure-sdk-for-net",
+    "stargazers_count": 5774,
+    "size": 4248522,
+    "commits_url": "https://api.github.com/repos/Azure/azure-sdk-for-net/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "BepInEx",
+    "clone_url": "https://github.com/BepInEx/BepInEx.git",
+    "html_url": "https://github.com/BepInEx/BepInEx",
+    "stargazers_count": 5731,
+    "size": 4437,
+    "commits_url": "https://api.github.com/repos/BepInEx/BepInEx/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Harmony",
+    "clone_url": "https://github.com/pardeike/Harmony.git",
+    "html_url": "https://github.com/pardeike/Harmony",
+    "stargazers_count": 5657,
+    "size": 16420,
+    "commits_url": "https://api.github.com/repos/pardeike/Harmony/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "dotnet-starter-kit",
+    "clone_url": "https://github.com/fullstackhero/dotnet-starter-kit.git",
+    "html_url": "https://github.com/fullstackhero/dotnet-starter-kit",
+    "stargazers_count": 5655,
+    "size": 6296,
+    "commits_url": "https://api.github.com/repos/fullstackhero/dotnet-starter-kit/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Mvc",
+    "clone_url": "https://github.com/aspnet/Mvc.git",
+    "html_url": "https://github.com/aspnet/Mvc",
+    "stargazers_count": 5612,
+    "size": 72119,
+    "commits_url": "https://api.github.com/repos/aspnet/Mvc/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Mirror",
+    "clone_url": "https://github.com/MirrorNetworking/Mirror.git",
+    "html_url": "https://github.com/MirrorNetworking/Mirror",
+    "stargazers_count": 5609,
+    "size": 414747,
+    "commits_url": "https://api.github.com/repos/MirrorNetworking/Mirror/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Xamarin.Forms",
+    "clone_url": "https://github.com/xamarin/Xamarin.Forms.git",
+    "html_url": "https://github.com/xamarin/Xamarin.Forms",
+    "stargazers_count": 5606,
+    "size": 111226,
+    "commits_url": "https://api.github.com/repos/xamarin/Xamarin.Forms/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "opencvsharp",
+    "clone_url": "https://github.com/shimat/opencvsharp.git",
+    "html_url": "https://github.com/shimat/opencvsharp",
+    "stargazers_count": 5606,
+    "size": 72539,
+    "commits_url": "https://api.github.com/repos/shimat/opencvsharp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "workflow-core",
+    "clone_url": "https://github.com/danielgerlag/workflow-core.git",
+    "html_url": "https://github.com/danielgerlag/workflow-core",
+    "stargazers_count": 5599,
+    "size": 2138,
+    "commits_url": "https://api.github.com/repos/danielgerlag/workflow-core/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "gsudo",
+    "clone_url": "https://github.com/gerardog/gsudo.git",
+    "html_url": "https://github.com/gerardog/gsudo",
+    "stargazers_count": 5576,
+    "size": 5815,
+    "commits_url": "https://api.github.com/repos/gerardog/gsudo/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "SqlSugar",
+    "clone_url": "https://github.com/DotNetNext/SqlSugar.git",
+    "html_url": "https://github.com/DotNetNext/SqlSugar",
+    "stargazers_count": 5558,
+    "size": 80635,
+    "commits_url": "https://api.github.com/repos/DotNetNext/SqlSugar/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Live-Charts",
+    "clone_url": "https://github.com/Live-Charts/Live-Charts.git",
+    "html_url": "https://github.com/Live-Charts/Live-Charts",
+    "stargazers_count": 5557,
+    "size": 18266,
+    "commits_url": "https://api.github.com/repos/Live-Charts/Live-Charts/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ProxySU",
+    "clone_url": "https://github.com/proxysu/ProxySU.git",
+    "html_url": "https://github.com/proxysu/ProxySU",
+    "stargazers_count": 5522,
+    "size": 31766,
+    "commits_url": "https://api.github.com/repos/proxysu/ProxySU/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "KurrentDB",
+    "clone_url": "https://github.com/kurrent-io/KurrentDB.git",
+    "html_url": "https://github.com/kurrent-io/KurrentDB",
+    "stargazers_count": 5512,
+    "size": 341018,
+    "commits_url": "https://api.github.com/repos/kurrent-io/KurrentDB/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ServiceStack",
+    "clone_url": "https://github.com/ServiceStack/ServiceStack.git",
+    "html_url": "https://github.com/ServiceStack/ServiceStack",
+    "stargazers_count": 5456,
+    "size": 458922,
+    "commits_url": "https://api.github.com/repos/ServiceStack/ServiceStack/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "win-acme",
+    "clone_url": "https://github.com/win-acme/win-acme.git",
+    "html_url": "https://github.com/win-acme/win-acme",
+    "stargazers_count": 5450,
+    "size": 7029,
+    "commits_url": "https://api.github.com/repos/win-acme/win-acme/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "graphql-platform",
+    "clone_url": "https://github.com/ChilliCream/graphql-platform.git",
+    "html_url": "https://github.com/ChilliCream/graphql-platform",
+    "stargazers_count": 5442,
+    "size": 870977,
+    "commits_url": "https://api.github.com/repos/ChilliCream/graphql-platform/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Swashbuckle.AspNetCore",
+    "clone_url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git",
+    "html_url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore",
+    "stargazers_count": 5365,
+    "size": 6164,
+    "commits_url": "https://api.github.com/repos/domaindrivendev/Swashbuckle.AspNetCore/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "msbuild",
+    "clone_url": "https://github.com/dotnet/msbuild.git",
+    "html_url": "https://github.com/dotnet/msbuild",
+    "stargazers_count": 5364,
+    "size": 314097,
+    "commits_url": "https://api.github.com/repos/dotnet/msbuild/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "DnsServer",
+    "clone_url": "https://github.com/TechnitiumSoftware/DnsServer.git",
+    "html_url": "https://github.com/TechnitiumSoftware/DnsServer",
+    "stargazers_count": 5361,
+    "size": 6660,
+    "commits_url": "https://api.github.com/repos/TechnitiumSoftware/DnsServer/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "WPF-Samples",
+    "clone_url": "https://github.com/microsoft/WPF-Samples.git",
+    "html_url": "https://github.com/microsoft/WPF-Samples",
+    "stargazers_count": 5360,
+    "size": 25839,
+    "commits_url": "https://api.github.com/repos/microsoft/WPF-Samples/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ViVe",
+    "clone_url": "https://github.com/thebookisclosed/ViVe.git",
+    "html_url": "https://github.com/thebookisclosed/ViVe",
+    "stargazers_count": 5350,
+    "size": 503,
+    "commits_url": "https://api.github.com/repos/thebookisclosed/ViVe/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "FastEndpoints",
+    "clone_url": "https://github.com/FastEndpoints/FastEndpoints.git",
+    "html_url": "https://github.com/FastEndpoints/FastEndpoints",
+    "stargazers_count": 5327,
+    "size": 11180,
+    "commits_url": "https://api.github.com/repos/FastEndpoints/FastEndpoints/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "MisakaTranslator",
+    "clone_url": "https://github.com/hanmin0822/MisakaTranslator.git",
+    "html_url": "https://github.com/hanmin0822/MisakaTranslator",
+    "stargazers_count": 5309,
+    "size": 36552,
+    "commits_url": "https://api.github.com/repos/hanmin0822/MisakaTranslator/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "AngleSharp",
+    "clone_url": "https://github.com/AngleSharp/AngleSharp.git",
+    "html_url": "https://github.com/AngleSharp/AngleSharp",
+    "stargazers_count": 5309,
+    "size": 52248,
+    "commits_url": "https://api.github.com/repos/AngleSharp/AngleSharp/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Bloatynosy",
+    "clone_url": "https://github.com/builtbybel/Bloatynosy.git",
+    "html_url": "https://github.com/builtbybel/Bloatynosy",
+    "stargazers_count": 5293,
+    "size": 12559,
+    "commits_url": "https://api.github.com/repos/builtbybel/Bloatynosy/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "VPet",
+    "clone_url": "https://github.com/LorisYounger/VPet.git",
+    "html_url": "https://github.com/LorisYounger/VPet",
+    "stargazers_count": 5288,
+    "size": 1174937,
+    "commits_url": "https://api.github.com/repos/LorisYounger/VPet/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "runner",
+    "clone_url": "https://github.com/actions/runner.git",
+    "html_url": "https://github.com/actions/runner",
+    "stargazers_count": 5273,
+    "size": 21128,
+    "commits_url": "https://api.github.com/repos/actions/runner/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "tye",
+    "clone_url": "https://github.com/dotnet/tye.git",
+    "html_url": "https://github.com/dotnet/tye",
+    "stargazers_count": 5266,
+    "size": 6454,
+    "commits_url": "https://api.github.com/repos/dotnet/tye/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ThisIsWin11",
+    "clone_url": "https://github.com/builtbybel/ThisIsWin11.git",
+    "html_url": "https://github.com/builtbybel/ThisIsWin11",
+    "stargazers_count": 5211,
+    "size": 20347,
+    "commits_url": "https://api.github.com/repos/builtbybel/ThisIsWin11/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Blog.Core",
+    "clone_url": "https://github.com/anjoy8/Blog.Core.git",
+    "html_url": "https://github.com/anjoy8/Blog.Core",
+    "stargazers_count": 5182,
+    "size": 72203,
+    "commits_url": "https://api.github.com/repos/anjoy8/Blog.Core/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "AssetRipper",
+    "clone_url": "https://github.com/AssetRipper/AssetRipper.git",
+    "html_url": "https://github.com/AssetRipper/AssetRipper",
+    "stargazers_count": 5182,
+    "size": 452113,
+    "commits_url": "https://api.github.com/repos/AssetRipper/AssetRipper/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ParrelSync",
+    "clone_url": "https://github.com/VeriorPies/ParrelSync.git",
+    "html_url": "https://github.com/VeriorPies/ParrelSync",
+    "stargazers_count": 5181,
+    "size": 16475,
+    "commits_url": "https://api.github.com/repos/VeriorPies/ParrelSync/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Common.Utility",
+    "clone_url": "https://github.com/laochiangx/Common.Utility.git",
+    "html_url": "https://github.com/laochiangx/Common.Utility",
+    "stargazers_count": 5169,
+    "size": 113415,
+    "commits_url": "https://api.github.com/repos/laochiangx/Common.Utility/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "example-voting-app",
+    "clone_url": "https://github.com/dockersamples/example-voting-app.git",
+    "html_url": "https://github.com/dockersamples/example-voting-app",
+    "stargazers_count": 5163,
+    "size": 1234,
+    "commits_url": "https://api.github.com/repos/dockersamples/example-voting-app/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "1Remote",
+    "clone_url": "https://github.com/1Remote/1Remote.git",
+    "html_url": "https://github.com/1Remote/1Remote",
+    "stargazers_count": 5143,
+    "size": 26292,
+    "commits_url": "https://api.github.com/repos/1Remote/1Remote/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "ClosedXML",
+    "clone_url": "https://github.com/ClosedXML/ClosedXML.git",
+    "html_url": "https://github.com/ClosedXML/ClosedXML",
+    "stargazers_count": 5086,
+    "size": 71307,
+    "commits_url": "https://api.github.com/repos/ClosedXML/ClosedXML/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "pythonnet",
+    "clone_url": "https://github.com/pythonnet/pythonnet.git",
+    "html_url": "https://github.com/pythonnet/pythonnet",
+    "stargazers_count": 5056,
+    "size": 9888,
+    "commits_url": "https://api.github.com/repos/pythonnet/pythonnet/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "Ladon",
+    "clone_url": "https://github.com/k8gege/Ladon.git",
+    "html_url": "https://github.com/k8gege/Ladon",
+    "stargazers_count": 5053,
+    "size": 214177,
+    "commits_url": "https://api.github.com/repos/k8gege/Ladon/commits",
+    "total_commits": 0
+  },
+  {
+    "name": "NorthwindTraders",
+    "clone_url": "https://github.com/jasontaylordev/NorthwindTraders.git",
+    "html_url": "https://github.com/jasontaylordev/NorthwindTraders",
+    "stargazers_count": 5014,
+    "size": 5078,
+    "commits_url": "https://api.github.com/repos/jasontaylordev/NorthwindTraders/commits",
+    "total_commits": 0
+  }
+]
